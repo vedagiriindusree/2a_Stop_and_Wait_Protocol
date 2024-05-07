@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## Name: Vedagiri Indu Sree
+## Reg No:212223230236
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
